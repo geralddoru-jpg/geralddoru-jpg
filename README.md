@@ -8,13 +8,12 @@
 
 ## 🧑‍💻 About Me
 
-Data analyst with 9+ years of experience in retail purchasing,
-inventory management, and supplier negotiation.
-Currently completing a **Data Analyst certification at TripleTen (2026)**,
-deepening my skills in Python, SQL, and data visualization.
+Data Analyst with 9+ years of experience in retail purchasing, inventory management, and supplier negotiation.
 
-I bridge business knowledge with analytical tools to turn
-operational data into smarter decisions.
+Certified in Data Analytics by TripleTen, with hands-on experience in Python, SQL, data analysis, and data visualization.
+
+I bridge business knowledge with analytical tools to transform operational data into actionable insights and support smarter, data-driven decisions.
+
 
 ---
 
